@@ -25,6 +25,7 @@ const vueLoading = new(function() {
 const VueLoadingPlugin = {
     install(Vue, options) {
         Vue.prototype.$loading = vueLoading
+        Vue.loading = vueLoading
     }
 }
 
