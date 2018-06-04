@@ -1,9 +1,9 @@
 {
     "name": "@me-jamshidi/vue-loading",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "A Vue.js loading plugin",
     "author": "mehran jamshidi",
-	"main": "dist/bundle.min.js",
+    "main": "dist/bundle.min.js",
     "scripts": {
         "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
         "start": "npm run dev",
