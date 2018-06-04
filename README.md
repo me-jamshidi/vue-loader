@@ -1,6 +1,6 @@
-# vue-tests
+# vue-loading
 
-> A Vue.js project
+> A Vue.js loading plugin
 
 ## Build Setup
 
